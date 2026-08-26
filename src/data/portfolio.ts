@@ -126,13 +126,13 @@ export const projects: ProjectEntry[] = [
   {
     build: "build 004",
     name: "Home Credit Philippines (Native)",
-    tag: "android · java · kotlin",
+    tag: "android · kotlin",
     desc: "The original native Android lending app: loans, e-wallet, shopping, card management, and virtual credit card payments for the Philippine market.",
   },
   {
     build: "build 003",
-    name: "Finance Apps",
-    tag: "android · java",
+    name: "Finance App",
+    tag: "android · kotlin",
     desc: "Native Android finance app covering e-wallet services, remittances, and everyday digital transactions.",
   },
   {
