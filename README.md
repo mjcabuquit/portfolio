@@ -1,5 +1,7 @@
 # Mark Joseph Cabuquit — Portfolio
 
+![Portfolio screenshot](public/screenshot-hero.png)
+
 My personal portfolio, built as a "changelog" that frames my career as versioned software releases (v1.0.0 → v1.2.0).
 
 **Live:** https://mjcabuquit-porfolio-flame-zeta.vercel.app
